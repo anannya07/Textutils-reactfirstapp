@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# This is basically a text analyzer application built with react .This is my first react application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
